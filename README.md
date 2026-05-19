@@ -1,4 +1,4 @@
-# BrilliantPro-Corporate-training-LMS-MERN
+# SecureWatch-Corporate-training-LMS-MERN
 Developed a MERN application providing dynamic front-end interfaces enabling effective learner management.
 
 A scalable security training learning management system for safeguarding
