@@ -11,3 +11,5 @@ query. The chatbot model was fine-tuned on data that observed user behavior over
 and triggers that caused the attacks providing accurate responses to user queries. Her
 contributions to this project have been significant, and she has demonstrated a remarkable
 ability to provide real-time experiences, producing useful data for users to ensure safety.
+
+<img width="830" height="1280" alt="FYP-Poster" src="https://github.com/user-attachments/assets/56577ee1-998f-484c-8964-38a9b11cb83d" />
